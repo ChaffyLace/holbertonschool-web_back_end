@@ -1,6 +1,4 @@
-function displayMessage(message){
-    const displayMessage = (l_argument) => 
-
-    module.exports = displayMessage;
-
+function displayMessage(message) {
+  console.log(message);
 }
+module.exports = displayMessage;
